@@ -3,6 +3,7 @@
 hello world
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature-2
 helloo
 =======
@@ -17,6 +18,44 @@ feature3
 >>>>>>> 30341a3 (solve merge conflict using git rebase)
 =======
 >>>>>>> 30341a3 (solve merge conflict using git rebase)
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+feature-2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+feature2
+>>>>>>> b86da7e (commit 2 main)
+=======
+feature1
+>>>>>>> feature
+<<<<<<< HEAD
+<<<<<<< HEAD
+Cherry-Pick
+<<<<<<< HEAD
+>>>>>>> 4abff2a (commit 3)
+=======
+=======
+>>>>>>> 2f6c882 (merge)
+<<<<<<< HEAD
+>>>>>>> 49b48b4 (Cherry-Pick)
+=======
+=======
+>>>>>>> 2f6c882 (merge)
+>>>>>>> a7bcc8c (Cherry-Pick)
+=======
+>>>>>>> 01e137f (Commit A)
+=======
+feature 2
+>>>>>>> da785f6 (Commit B)
+=======
+feature1
+>>>>>>> 83ccf0e (rebase1)
+=======
+helloo
+>>>>>>> feature
+>>>>>>> 8b58821 (retrying cherry pick 3)
 </body>
 </html>
 
